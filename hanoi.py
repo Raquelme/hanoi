@@ -27,7 +27,7 @@ def show():
     print("------------")
     time.sleep(0.1)
     print()
-
+#comentario
 def step_move(_from, _to):
     global moves
     moves += 1

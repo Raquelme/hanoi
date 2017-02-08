@@ -1,0 +1,2 @@
+creando un archivo original para ver como funciiona git
+
